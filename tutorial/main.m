@@ -13,8 +13,15 @@ int main(int argc, const char * argv[])
 
     @autoreleasepool {
         
-        // insert code here...
-        NSLog(@"Hello, World!");
+        // hello guys i'm giuseppe...
+        
+        int n1 = 20;
+        int n2 = 40;
+        int sum = n1 + n2;
+         
+        NSLog(@"the sum of %i and %i is %i", n1, n2, sum);
+        
+        
         
     }
     return 0;
